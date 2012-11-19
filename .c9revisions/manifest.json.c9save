@@ -1,0 +1,3 @@
+{"ts":1353322997778,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1353322989081,"patch":[[{"diffs":[[1,"{\r\n  \"name\": \"My First Extension\",\r\n  \"version\": \"1.0\",\r\n  \"manifest_version\": 2,\r\n  \"description\": \"The first extension that I made.\",\r\n  \"browser_action\": {\r\n    \"default_icon\": \"icon.png\"\r\n  },\r\n  \"permissions\": [\r\n    \"http://api.flickr.com/\"\r\n  ]\r\n}"]],"start1":0,"start2":0,"length1":0,"length2":254}]],"length":254,"saved":false}
+{"ts":1353323424437,"patch":[[{"diffs":[[0,"con.png\""],[1,",\r\n    \"default_popup\": \"popup.html\""],[0,"\r\n  },\r\n"]],"start1":182,"start2":182,"length1":16,"length2":52}]],"length":290,"saved":false}
